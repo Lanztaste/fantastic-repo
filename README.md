@@ -1,3 +1,3 @@
-# Demo
+# Fantastic
 
 Some description!
